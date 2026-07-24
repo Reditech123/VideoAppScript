@@ -1,0 +1,1144 @@
+{
+  "questions": [
+    {
+      "topic": "Pengertian dan Cakupan Ilmu Fisika",
+      "triggerTime": "0:32",
+      "packages": [
+        {
+          "id": "A",
+          "question": "Berdasarkan video, mengapa ilmu fisika dikatakan bisa memiliki cakupan yang sebegitu luasnya?",
+          "hint": "Fisika adalah ilmu yang mempelajari bagaimana alam semesta bekerja dari skala terkecil hingga terbesar",
+          "correctAnswer": "Karena fisika adalah ilmu yang membongkar bagaimana dunia alam semesta kita bekerja.",
+          "distractors": [
+            "Karena fisika hanya mempelajari cara membuat ramuan kimia pembersih lantai rumah.",
+            "Karena ilmu fisika diwajibkan oleh seluruh sekolah dasar di kutub utara bumi.",
+            "Karena fisika merupakan satu-satunya ilmu yang membahas cara budidaya tanaman hias secara hidroponik.",
+            "Karena fisika khusus mempelajari sejarah kerajaan-kerajaan kuno di benua Asia Timur.",
+            "Karena rumus fisika selalu berubah-ubah setiap kali terjadi pergantian musim di dunia.",
+            "Karena fisika hanya berfokus pada teknik menggambar peta dunia menggunakan cat minyak."
+          ]
+        },
+        {
+          "id": "B",
+          "question": "Apa batas objek materi yang dipelajari dalam ilmu fisika mulai dari yang terkecil hingga terbesar?",
+          "hint": "Fisika mempelajari materi dari skala subatomik hingga skala kosmik",
+          "correctAnswer": "Mulai dari materi terkecil di alam semesta hingga objek super raksasa seperti galaksi.",
+          "distractors": [
+            "Mulai dari cara membuat jarum jahit pakaian hingga cara merakit kapal selam bertenaga nuklir.",
+            "Mulai dari ukuran semut merah di kebun hingga ukuran paus biru di samudra Atlantik.",
+            "Mulai dari sebutir debu jalanan hingga ukuran seluruh gedung sekolah yang ada di Indonesia.",
+            "Mulai dari cara menulis huruf alfabet hingga cara menyusun buku ensiklopedia tebal.",
+            "Mulai dari komponen baterai jam tangan hingga ukuran stasiun televisi nasional.",
+            "Mulai dari sel darah merah manusia hingga ukuran pohon jati terbesar di hutan tropis."
+          ]
+        },
+        {
+          "id": "C",
+          "question": "Rentang waktu dan peristiwa apa yang coba ditelusuri dan diprediksi oleh ilmu fisika?",
+          "hint": "Fisika mencoba memahami asal-usul dan akhir dari alam semesta",
+          "correctAnswer": "Mencoba menelusuri awal lahirnya semesta ini hingga memprediksi akhir dari semuanya.",
+          "distractors": [
+            "Menelusuri sejarah berdirinya pabrik mobil pertama hingga memprediksi harga saham besok pagi.",
+            "Menelusuri jam bangun tidur para ilmuwan kuno hingga memprediksi cuaca ekstrem siang nanti.",
+            "Menelusuri awal mula penggunaan uang kertas hingga memprediksi runtuhnya sistem perbankan dunia.",
+            "Menelusuri masa kecil Isaac Newton hingga memprediksi kapan robot akan menguasai pasar tradisional.",
+            "Menelusuri asal-usul bahasa daerah di Indonesia hingga memprediksi populasi manusia tahun depan.",
+            "Menelusuri kapan pertama kali api ditemukan hingga memprediksi jadwal penerbangan pesawat komersial."
+          ]
+        },
+        {
+          "id": "D",
+          "question": "Mengapa fisika sering kali dijuluki sebagai 'ilmu tentang segalanya'?",
+          "hint": "Fisika menjelaskan fenomena dari yang paling sederhana hingga yang paling kompleks",
+          "correctAnswer": "Karena fisika membantu hal sehari-hari bekerja hingga hal-hal yang menembus batas masuk akal.",
+          "distractors": [
+            "Karena fisika mencakup pelajaran memasak kue tradisional dan teknik menjahit baju pesta.",
+            "Karena semua bahasa di dunia ini menggunakan rumus fisika sebagai dasar tata bahasanya.",
+            "Karena fisika otomatis memberikan kekayaan materi kepada siapa saja yang menghafal rumusnya.",
+            "Karena tidak ada satu pun makhluk hidup di bumi yang bisa bernapas tanpa membaca buku fisika.",
+            "Karena fisika mampu menjelaskan alasan psikologis mengapa seseorang bisa jatuh cinta.",
+            "Karena semua undang-undang hukum pidana di berbagai negara dibuat berdasarkan hukum fisika."
+          ]
+        },
+        {
+          "id": "E",
+          "question": "Kejadian sehari-hari apa yang diatur oleh fisika pada bagian pembuka video?",
+          "hint": "Fisika mengatur berbagai fenomena alam yang kita lihat setiap hari",
+          "correctAnswer": "Gravitasi planet, melayangnya pesawat terbang berton-ton, dan keseimbangan sepeda yang melaju.",
+          "distractors": [
+            "Proses matangnya nasi di penanak nasi, pertumbuhan rambut manusia, dan pasang surut air laut.",
+            "Cara burung bertelur di sarang, pembuatan lampu hias, dan teknik mengecat dinding rumah.",
+            "Cara kerja mesin jahit elektrik, proses pembuatan tahu, dan perputaran roda komidi putar.",
+            "Sistem pencernaan makanan, cara kerja remote televisi, dan proses pembentukan awan hujan.",
+            "Cara menyalakan kompor gas, teknik melipat kertas origami, dan cara kerja rem cakram motor.",
+            "Pembuatan minyak kelapa, sistem kerja jam dinding mekanik, dan cara mengapung di kolam renang."
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Analogi Fisikawan sebagai Detektif Semesta",
+      "triggerTime": "1:24",
+      "packages": [
+        {
+          "id": "A",
+          "question": "Menjadi profesi apakah analogi mempelajari ilmu fisika yang disebutkan dalam video?",
+          "hint": "Fisikawan seperti detektif yang mencari tahu bagaimana alam semesta bekerja",
+          "correctAnswer": "Menjadi seorang detektif yang menelusuri jejak misteri fenomena alam.",
+          "distractors": [
+            "Menjadi seorang arkeolog yang menggali fosil dinosaurus di gurun pasir.",
+            "Menjadi seorang dokter spesialis bedah jantung di rumah sakit besar.",
+            "Menjadi seorang hakim agung yang memutuskan perkara hukum di pengadilan.",
+            "Menjadi seorang koki terkenal yang menciptakan menu makanan penutup baru.",
+            "Menjadi seorang arsitek bangunan pencakar langit di pusat kota metropolitan.",
+            "Menjadi seorang kapten kapal pesiar yang mengelilingi samudra luas."
+          ]
+        },
+        {
+          "id": "B",
+          "question": "Apa yang kita lakukan dengan menggunakan 'jejak-jejak yang ada' dalam studi fisika?",
+          "hint": "Jejak-jejak alam digunakan untuk memahami mengapa fenomena terjadi",
+          "correctAnswer": "Menelusuri dan mencari tahu alasan kenapa suatu fenomena alam bisa terjadi.",
+          "distractors": [
+            "Menyembunyikan kesalahan masa lalu agar tidak diketahui oleh masyarakat umum.",
+            "Membuat perangkap buatan untuk menangkap hewan liar yang merusak perkebunan.",
+            "Menghitung jumlah kerikil yang ada di sepanjang jalan raya antarprovinsi.",
+            "Mengikuti langkah kaki orang asing yang berjalan di pusat perbelanjaan.",
+            "Menggambar ulang pola batik tradisional menggunakan komputer tablet canggih.",
+            "Mencari tahu lokasi tersembunyi dari sisa-sisa harta karun bajak laut kuno."
+          ]
+        },
+        {
+          "id": "C",
+          "question": "Apa yang membedakan kasus yang ditangani detektif biasa dengan detektif fisika?",
+          "hint": "Detektif fisika menyelidiki misteri alam semesta, bukan kasus kriminal",
+          "correctAnswer": "Kasus yang ditangani oleh detektif fisika adalah rahasia operasional alam semesta itu sendiri.",
+          "distractors": [
+            "Kasus detektif fisika selalu berhubungan dengan hilangnya perhiasan mewah milik kerajaan.",
+            "Detektif fisika hanya mengurus masalah sengketa lahan perkebunan tebu warga desa.",
+            "Kasus detektif fisika diselesaikan lewat cara adu kekuatan fisik di atas ring tinju.",
+            "Detektif fisika bekerja di bawah perintah langsung dari organisasi mata-mata internasional.",
+            "Kasus detektif fisika hanya terbatas pada pencurian naskah kuno di perpustakaan nasional.",
+            "Detektif fisika bertugas menangkap penjahat siber yang meretas sistem perbankan."
+          ]
+        },
+        {
+          "id": "D",
+          "question": "Bagaimana status alam semesta ini sejak awal terkait dengan hukum-hukum di dalamnya?",
+          "hint": "Alam semesta sudah ada dengan aturannya sendiri, manusia hanya perlu menemukannya",
+          "correctAnswer": "Alam semesta memang sudah begini apa adanya dari awal, tugas kita hanyalah menemukan peraturannya.",
+          "distractors": [
+            "Alam semesta terus berubah bentuk secara acak tergantung pada keinginan para manusia bumi.",
+            "Peraturan alam semesta dibuat oleh kesepakatan para ilmuwan abad pertengahan di Eropa.",
+            "Alam semesta tidak memiliki aturan sama sekali dan semuanya berjalan secara kebetulan belaka.",
+            "Hukum alam semesta selalu mengikuti perkembangan tren teknologi ponsel pintar terbaru.",
+            "Peraturan alam semesta hanya berlaku jika manusia rajin membaca buku fisika di sekolah.",
+            "Alam semesta baru menciptakan hukum gravitasinya tepat setelah Isaac Newton lahir ke dunia."
+          ]
+        },
+        {
+          "id": "E",
+          "question": "Apa hubungan antara menemukan peraturan alam semesta dengan kehidupan manusia?",
+          "hint": "Penemuan hukum alam memungkinkan terciptanya teknologi baru",
+          "correctAnswer": "Semakin banyak peraturan alam yang ditemukan, makin banyak teknologi yang bisa diciptakan buat hidup kita.",
+          "distractors": [
+            "Menemukan peraturan alam akan membuat manusia bisa hidup abadi tanpa perlu makan dan minum.",
+            "Hal itu akan menghentikan perputaran bumi sehingga waktu siang hari menjadi selamanya.",
+            "Menemukan aturan alam otomatis menghapus semua jenis penyakit menular dari muka bumi.",
+            "Makin banyak aturan ditemukan, makin sedikit jumlah uang yang beredar di masyarakat dunia.",
+            "Hal tersebut membuat semua manusia bisa membaca pikiran hewan peliharaan mereka masing-masing.",
+            "Menemukan aturan alam akan menyebabkan seluruh gunung berapi di dunia meletus bersamaan."
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Penemuan Gravitasi oleh Isaac Newton",
+      "triggerTime": "1:34",
+      "packages": [
+        {
+          "id": "A",
+          "question": "Kekuatan hebat tak terlihat apa yang ditemukan oleh Isaac Newton yang mengatur dunia ini?",
+          "hint": "Newton menemukan gaya yang membuat benda jatuh ke bumi dan planet mengorbit matahari",
+          "correctAnswer": "Kekuatan hebat tak terlihat bernama gravitasi.",
+          "distractors": [
+            "Kekuatan supranatural yang berasal dari pusaran angin badai tropis.",
+            "Energi magnetik raksasa yang hanya keluar dari inti batuan meteorit jatuh.",
+            "Gelombang radiasi kosmik yang dipancarkan oleh bintang jatuh di malam hari.",
+            "Dorongan udara panas yang dihasilkan oleh pergeseran lempeng tektonik bumi.",
+            "Aliran listrik statis yang terkumpul di awan-awan hitam saat mendung tiba.",
+            "Gaya sentrifugal yang dihasilkan oleh tiupan angin muson barat di samudra."
+          ]
+        },
+        {
+          "id": "B",
+          "question": "Karakteristik apa dari gravitasi yang ditekankan dalam narasi video tersebut?",
+          "hint": "Gravitasi adalah gaya yang sangat kuat namun tidak terlihat oleh mata",
+          "correctAnswer": "Merupakan kekuatan hebat yang bekerja di alam semesta namun wujudnya tidak terlihat oleh mata.",
+          "distractors": [
+            "Berupa cairan kental berwarna biru yang mengalir di bawah permukaan kerak bumi.",
+            "Suatu kilatan cahaya merah yang muncul setiap kali ada buah apel jatuh dari pohonnya.",
+            "Bunyi dengungan berfrekuensi tinggi yang bisa didengar oleh semua jenis hewan mamalia.",
+            "Lapisan gas transparan yang baunya menyerupai belerang dari kawah gunung berapi.",
+            "Partikel debu emas yang melayang-layang di udara pada saat sore hari menjelang magrib.",
+            "Bentuk gelombang kejut yang dipicu oleh sambaran petir di area lapangan terbuka."
+          ]
+        },
+        {
+          "id": "C",
+          "question": "Tindakan apa yang dilakukan Newton hingga ia bisa menemukan hukum gravitasi tersebut?",
+          "hint": "Newton bertindak seperti detektif yang mengikuti jejak-jejak misteri alam",
+          "correctAnswer": "Ia mencoba menjadi detektif dengan terus mengikuti jejak-jejak misteri yang ada di alam semesta.",
+          "distractors": [
+            "Melakukan meditasi selama puluhan tahun di dalam gua terpencil di puncak gunung bersalju.",
+            "Membaca seluruh kitab suci kuno yang tersimpan di ruang rahasia perpustakaan kerajaan Inggris.",
+            "Mengadakan sayembara berhadiah emas bagi siapa saja yang bisa menjelaskan alasan apel jatuh.",
+            "Tidak sengaja menjatuhkan teleskop mahalnya dari atas menara tinggi hingga hancur berantakan.",
+            "Bermimpi bertemu dengan makhluk luar angkasa yang membisikkan rumus matematika kepadanya.",
+            "Membeli peralatan laboratorium modern dari negara tetangga dengan menghabiskan seluruh hartanya."
+          ]
+        },
+        {
+          "id": "D",
+          "question": "Apa kesimpulan Newton mengenai keteraturan dunia tempat kita tinggal ini?",
+          "hint": "Newton menyimpulkan bahwa dunia tidak berjalan secara acak",
+          "correctAnswer": "Bahwa dunia ini tidak berjalan acak, melainkan diatur oleh peraturan dan kekuatan hebat yang pasti.",
+          "distractors": [
+            "Dunia kita dikendalikan penuh oleh pergerakan hewan-hewan raksasa di dasar samudra terdalam.",
+            "Keteraturan dunia sepenuhnya bergantung pada jumlah pabrik mesin yang didirikan manusia.",
+            "Dunia ini diatur oleh hukum sihir kuno yang rumusnya terus berubah setiap ratusan tahun sekali.",
+            "Keteraturan bumi sewaktu-waktu bisa dibatalkan jika mayoritas manusia berhenti bekerja keras.",
+            "Dunia diatur oleh pancaran energi dari satelit buatan yang dipasang di atmosfer terluar.",
+            "Bumi diatur oleh sistem komputer raksasa yang tertanam di dalam inti planet Mars."
+          ]
+        },
+        {
+          "id": "E",
+          "question": "Siapakah tokoh utama yang disebut sebagai perintis penemu hukum alam terikat gravitasi ini?",
+          "hint": "Ilmuwan Inggris yang terkenal dengan kisah apel jatuh",
+          "correctAnswer": "Isaac Newton.",
+          "distractors": [
+            "Albert Einstein.",
+            "Galileo Galilei.",
+            "Nikola Tesla.",
+            "Marie Curie.",
+            "Thomas Alva Edison.",
+            "Stephen Hawking."
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Teknologi Modern sebagai Sihir Nyata",
+      "triggerTime": "2:16",
+      "packages": [
+        {
+          "id": "A",
+          "question": "Teknologi tidak kelihatan apa yang membuat manusia bisa 'ngomong telepati' ke belahan dunia lain?",
+          "hint": "Teknologi komunikasi nirkabel seperti WiFi dan GPS",
+          "correctAnswer": "Wifi, GPS, atau teknologi telepon nirkabel tanpa sambungan apa-apa.",
+          "distractors": [
+            "Cermin ajaib yang diberi mantra khusus oleh para dukun zaman kerajaan kuno.",
+            "Saluran pipa bawah tanah yang memantulkan gema suara manusia dengan sangat cepat.",
+            "Burung merpati pos yang dilatih khusus untuk menghafal frekuensi suara manusia bumi.",
+            "Jaringan benang sutra rahasia yang dibentangkan di atas awan oleh pihak militer dunia.",
+            "Kode morse yang dikirimkan melalui kedipan lampu mercusuar di sepanjang garis pantai.",
+            "Penggunaan bubuk mesiu khusus yang diledakkan di udara untuk mengirim pesan visual."
+          ]
+        },
+        {
+          "id": "B",
+          "question": "Contoh fenomena apa yang disebut sebagai bentuk 'ratusan manusia bisa terbang kayak burung'?",
+          "hint": "Pesawat terbang komersial memanfaatkan hukum aerodinamika",
+          "correctAnswer": "Penggunaan pesawat terbang komersial modern yang memanfaatkan hukum fisika aerodinamika.",
+          "distractors": [
+            "Penggunaan karpet terbang legendaris yang diberi bubuk sihir penambah daya apung udara.",
+            "Ritual khusus melompat dari tebing tinggi menggunakan kostum bulu angsa buatan sendiri.",
+            "Teknik meditasi tingkat tinggi yang membuat tubuh manusia kehilangan berat massanya total.",
+            "Balon gas mainan berukuran raksasa yang diikatkan ke pinggang ratusan orang sekaligus.",
+            "Ramuan herbal rahasia yang jika diminum dapat menumbuhkan sepasang sayap asli di punggung.",
+            "Olahraga ekstrem melompat menggunakan tali karet elastis dari atas jembatan kereta api."
+          ]
+        },
+        {
+          "id": "C",
+          "question": "Apa yang dimaksud dengan 'kereta kuda yang bisa jalan tanpa kuda' dalam konteks video?",
+          "hint": "Kendaraan bermotor yang digerakkan oleh mesin",
+          "correctAnswer": "Penemuan mobil dan kendaraan bermotor yang digerakkan oleh mesin berbasis hukum fisika.",
+          "distractors": [
+            "Kereta kencana kerajaan yang ditarik oleh sekumpulan makhluk halus tak kasat mata manusia.",
+            "Gerobak kayu biasa yang meluncur ke bawah karena ditarik oleh tali tambang dari balik bukit.",
+            "Kendaraan mainan anak-anak yang bergerak menggunakan tenaga dorong angin dari kipas sate.",
+            "Kereta kayu yang dipasang layar besar agar bisa melaju memanfaatkan tiupan angin kencang.",
+            "Kereta yang bergerak karena didorong oleh ratusan orang dari arah belakang secara rahasia.",
+            "Kereta yang memanfaatkan kemiringan jalan ekstrem di daerah pegunungan bersalju abadi."
+          ]
+        },
+        {
+          "id": "D",
+          "question": "Benda mati apa yang disebut 'bisa bicara' sebagai salah satu perwujudan sihir fisika?",
+          "hint": "Perangkat elektronik seperti ponsel dan komputer bisa mengeluarkan suara",
+          "correctAnswer": "Perangkat pengeras suara, komputer, ponsel pintar, atau gawai elektronik pemutar audio.",
+          "distractors": [
+            "Patung batu kuno di museum yang mendadak mengeluarkan suara kutukan di malam hari.",
+            "Boneka kayu mainan yang dipasangi tali senar pancing agar mulutnya terlihat bergerak aktif.",
+            "Pohon tua di tengah hutan yang batangnya berlubang dan bisa memantulkan suara angin malam.",
+            "Kotak musik tradisional yang menggunakan tenaga pegas terbuat dari emas murni curian.",
+            "Topeng kulit hewan yang biasa digunakan dalam upacara adat pemanggilan hujan musiman.",
+            "Batu prasasti peninggalan kerajaan kuno yang tulisannya bisa dibaca secara otomatis oleh anak kecil."
+          ]
+        },
+        {
+          "id": "E",
+          "question": "Fakta menakjubkan apa yang diungkapkan video mengenai semua bentuk 'sihir modern' ini?",
+          "hint": "Semua teknologi modern didasarkan pada ilmu sains, bukan sihir",
+          "correctAnswer": "Bahwa itu semua bukanlah trik gaib, melainkan murni tentang bagaimana alam semesta bekerja lewat sains.",
+          "distractors": [
+            "Bahwa teknologi tersebut diciptakan berkat bantuan peradaban makhluk asing dari galaksi Andromeda.",
+            "Semua sihir modern tersebut hanya bisa berfungsi di area perkotaan besar yang memiliki banyak uang.",
+            "Teknologi itu akan otomatis rusak dan tidak bisa dipakai lagi jika bumi mengalami gerhana bulan.",
+            "Bahwa perangkat tersebut dibuat menggunakan bahan rahasia yang diambil dari kawah terdalam gunung merapi.",
+            "Sihir modern tersebut sengaja disebarkan oleh para pesulap dunia untuk menipu masyarakat awam.",
+            "Bahwa semua alat canggih itu dikendalikan oleh satu orang genius yang tinggal di dalam gua bawah laut."
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Fisika Klasik dan Isaac Newton",
+      "triggerTime": "3:19",
+      "packages": [
+        {
+          "id": "A",
+          "question": "Siapakah tokoh utama yang dinobatkan sebagai pencetus utama dari mazhab Fisika Klasik?",
+          "hint": "Ilmuwan yang menemukan hukum gravitasi",
+          "correctAnswer": "Isaac Newton.",
+          "distractors": [
+            "Albert Einstein.",
+            "Max Planck.",
+            "Niels Bohr.",
+            "Werner Heisenberg.",
+            "Richard Feynman.",
+            "Erwin Schrödinger."
+          ]
+        },
+        {
+          "id": "B",
+          "question": "Di manakah materi cabang Fisika Klasik ini paling sering diajarkan berdasarkan video?",
+          "hint": "Fisika klasik diajarkan di institusi pendidikan formal",
+          "correctAnswer": "Paling sering diajarkan di lingkungan institusi sekolah.",
+          "distractors": [
+            "Di pusat pelatihan militer khusus angkatan udara negara maju.",
+            "Di dalam sanggar seni tari tradisional daerah Jawa Tengah.",
+            "Di tempat kursus memasak makanan barat tingkat profesional.",
+            "Di padepokan silat bela diri tradisional di lereng gunung.",
+            "Di bengkel khusus modifikasi mobil balap formula satu dunia.",
+            "Di sekolah khusus mencetak kru kapal selam internasional."
+          ]
+        },
+        {
+          "id": "C",
+          "question": "Bagaimana kegunaan nyata dari cabang Fisika Klasik ini digambarkan dalam video?",
+          "hint": "Fisika klasik sangat aplikatif dalam kehidupan sehari-hari",
+          "correctAnswer": "Merupakan cabang fisika yang sangat berguna dan aplikatif dalam aktivitas keseharian kita.",
+          "distractors": [
+            "Hanya berguna saat manusia mencoba melakukan perjalanan menembus waktu ke masa lalu.",
+            "Hanya bermanfaat untuk menghitung jumlah bintang yang mati di luar angkasa sana.",
+            "Khusus digunakan untuk meramal kapan terjadinya gempa bumi susulan di dasar samudra.",
+            "Tidak memiliki kegunaan praktis sama sekali dan hanya berfungsi sebagai pajangan buku teks.",
+            "Hanya dipakai oleh para ilmuwan yang bekerja di stasiun penelitian kutub selatan bumi.",
+            "Berguna khusus untuk mendeteksi keberadaan logam mulia emas tersembunyi di pekarangan rumah."
+          ]
+        },
+        {
+          "id": "D",
+          "question": "Metafora apa yang digunakan untuk menggambarkan dunia jika dilihat dari kacamata Fisika Klasik?",
+          "hint": "Fisika klasik memandang dunia sebagai sistem yang teratur dan dapat diprediksi",
+          "correctAnswer": "Dunia diibaratkan sebagai sebuah mesin raksasa yang sudah kita ketahui rahasia mekanismenya.",
+          "distractors": [
+            "Dunia bagaikan lautan luas berombak besar yang tidak memiliki tepi maupun dasar yang jelas.",
+            "Dunia mirip seperti lembaran kertas tipis yang mudah robek jika terkena tiupan angin kencang.",
+            "Dunia diibaratkan sebagai sebuah panggung sandiwara komedi yang aktornya adalah para hewan liar.",
+            "Dunia bagaikan sebuah bola kristal rapuh yang dijaga oleh sekumpulan naga raksasa legendaris.",
+            "Dunia seperti hamparan tanaman bunga warna-warni yang tumbuh subur tanpa perlu disiram air.",
+            "Dunia diibaratkan sebagai sebuah labirin gelap gulita yang jalurnya selalu berubah secara otomatis."
+          ]
+        },
+        {
+          "id": "E",
+          "question": "Apa kemampuan hebat manusia yang dimungkinkan oleh penerapan rumus-rumus Fisika Klasik?",
+          "hint": "Fisika klasik memungkinkan prediksi gerakan benda secara akurat",
+          "correctAnswer": "Segala hal mekanis pergerakan benda di dunia ini bisa kita prediksi dengan akurat lewat perhitungan.",
+          "distractors": [
+            "Manusia mampu mengubah warna air laut menjadi jernih kembali hanya dalam sekejap mata saja.",
+            "Kita bisa menciptakan emas batangan murni hanya dengan mencampurkan tanah liat dan air garam.",
+            "Kita dapat memerintahkan hewan liar untuk bekerja membantu membersihkan halaman rumah kita.",
+            "Manusia bisa menahan napas di dalam air sedalam satu kilometer tanpa bantuan tabung oksigen.",
+            "Kita bisa memadamkan kobaran api kebakaran hutan hanya dengan menggunakan tiupan angin mulut.",
+            "Kita mampu membuat semua jenis kendaraan berjalan selamanya tanpa perlu mengisi bahan bakar lagi."
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Batas Fisika Klasik dan Anomali Abad ke-19",
+      "triggerTime": "3:55",
+      "packages": [
+        {
+          "id": "A",
+          "question": "Sampai tahun berapakah masa keemasan batasan Fisika Klasik dalam memandang alam semesta?",
+          "hint": "Fisika klasik mencapai puncaknya pada akhir abad ke-19",
+          "correctAnswer": "Sampai sekitar tahun 1900-an.",
+          "distractors": [
+            "Sampai tahun 1500-an sebelum masehi.",
+            "Sampai tahun 1745-an awal abad pertengahan.",
+            "Sampai tahun 2020-an era modern saat ini.",
+            "Sampai tahun 1850-an pertengahan revolusi industri pertama.",
+            "Sampai tahun 1666-an saat terjadi kebakaran besar kota London.",
+            "Sampai tahun 1945-an tepat setelah berakhirnya perang dunia kedua."
+          ]
+        },
+        {
+          "id": "B",
+          "question": "Hal misterius atau anomali astronomi apa yang terjadi pada salah satu planet di tata surya kita?",
+          "hint": "Planet Merkurius memiliki orbit yang tidak sesuai prediksi fisika klasik",
+          "correctAnswer": "Planet Merkurius mengitari Matahari bergerak lebih cepat daripada yang seharusnya diprediksi.",
+          "distractors": [
+            "Planet Mars mendadak berubah warna warninya menjadi biru cerah akibat badai debu es.",
+            "Planet Jupiter kehilangan seluruh lapisan gas cincin pelindungnya dalam waktu semalam saja.",
+            "Planet Saturnus bergeser posisinya menjadi lebih dekat ke bumi daripada posisi bulan kita.",
+            "Planet Venus berhenti berputar pada porosnya sendiri sehingga mengalami malam abadi.",
+            "Planet Neptunus mengeluarkan suara dengungan keras yang bisa ditangkap oleh radar stasiun bumi.",
+            "Planet Uranus terbelah menjadi dua bagian akibat benturan dengan batuan komet raksasa liar."
+          ]
+        },
+        {
+          "id": "C",
+          "question": "Di manakah letak keanehan-keanehan lain yang juga tidak bisa dijelaskan oleh rumus fisika klasik?",
+          "hint": "Fisika klasik gagal menjelaskan fenomena di dunia mikroskopis",
+          "correctAnswer": "Banyak hal-hal aneh yang terjadi di objek lingkungan skala sangat kecil (mikroskopis).",
+          "distractors": [
+            "Keanehan yang terjadi di puncak-puncak gunung tertinggi di benua Amerika Selatan.",
+            "Hal-hal ganjil yang ditemukan di dalam palung laut terdalam di samudra Pasifik barat.",
+            "Kejadian aneh yang dialami oleh para pelaut yang melintasi kawasan segitiga bermuda.",
+            "Keanehan pada pertumbuhan tanaman padi di area pertanian yang menggunakan pupuk kimia buatan.",
+            "Hal-hal aneh pada perilaku hewan mamalia besar yang tinggal di kawasan kutub utara bumi.",
+            "Kejadian ganjil pada struktur bangunan kuno peninggalan zaman megalitikum purba di Eropa."
+          ]
+        },
+        {
+          "id": "D",
+          "question": "Apa dugaan awal para Fisikawan detektif ketika menemukan anomali-anomali alam tersebut?",
+          "hint": "Para fisikawan menduga ada sesuatu yang lebih besar dari fisika klasik",
+          "correctAnswer": "Menduga ada jejak yang menunjukkan bahwa ada sesuatu yang lebih besar di luar sana melebihi fisika klasik.",
+          "distractors": [
+            "Menduga ada kesalahan fatal pada alat hitung kalkulator mekanik yang mereka gunakan saat itu.",
+            "Mencurigai bahwa ada sabotase rahasia yang sengaja dilakukan oleh para ilmuwan dari negara musuh.",
+            "Menduga bahwa hukum gravitasi bumi telah habis masa berlakunya dan perlu diperbarui secepatnya.",
+            "Mengira bahwa matahari akan segera padam dalam waktu hitungan hari akibat kehabisan bahan bakar gas.",
+            "Menduga bahwa semua catatan rumus matematika Isaac Newton sengaja diubah oleh pihak perpustakaan.",
+            "Mencurigai adanya pengaruh mistis dari dukun penemu sihir kuno yang bangkit kembali dari kubur."
+          ]
+        },
+        {
+          "id": "E",
+          "question": "Mengapa anomali orbit Merkurius menjadi masalah besar bagi para ilmuwan zaman itu?",
+          "hint": "Anomali orbit Merkurius tidak bisa dijelaskan dengan hukum fisika yang ada",
+          "correctAnswer": "Karena anomali gerakan tersebut sama sekali tidak bisa dijelaskan atau dihitung menggunakan hukum fisika klasik.",
+          "distractors": [
+            "Karena perubahan orbit tersebut menyebabkan suhu di bumi mendadak turun drastis menjadi es.",
+            "Karena fenomena tersebut membuat satelit komunikasi buatan manusia jatuh hancur ke bumi.",
+            "Karena kejadian itu merusak pandangan navigasi arah kompas magnetik para pelaut di samudra.",
+            "Karena Merkurius dikhawatirkan akan keluar jalur dan menabrak planet bumi dalam waktu dekat.",
+            "Karena anomali itu menghapus keindahan pemandangan bintang malam yang biasa dilihat dari teleskop.",
+            "Karena peristiwa itu membuat waktu satu hari di bumi berubah menjadi sepanjang 48 jam penuh."
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Lahirnya Teori Relativitas Albert Einstein",
+      "triggerTime": "4:23",
+      "packages": [
+        {
+          "id": "A",
+          "question": "Dua wilayah baru fisika super gila apa yang berhasil ditemukan para detektif fisikawan?",
+          "hint": "Dua teori besar yang mengubah pemahaman fisika adalah relativitas dan kuantum",
+          "correctAnswer": "Relativitas dan Fisika Kuantum.",
+          "distractors": [
+            "Astrologi dan Fisika Metafisika.",
+            "Alkimia Kuno dan Dinamika Termal Magnet.",
+            "Mekanika Robotik dan Ilmu Sihir Optik.",
+            "Fisika Geologi dan Dinamika Fluida Cairan.",
+            "Aerodinamika Balistik dan Ilmu Energi Mistis.",
+            "Fisika Organik dan Anatomi Komponen Nuklir."
+          ]
+        },
+        {
+          "id": "B",
+          "question": "Siapakah tokoh jenius legendaris yang menemukan Teori Relativitas?",
+          "hint": "Ilmuwan dengan rumus E=mc²",
+          "correctAnswer": "Albert Einstein.",
+          "distractors": [
+            "Isaac Newton.",
+            "Nikola Tesla.",
+            "Thomas Alva Edison.",
+            "Galileo Galilei.",
+            "Stephen Hawking.",
+            "Michael Faraday."
+          ]
+        },
+        {
+          "id": "C",
+          "question": "Dampak luar biasa apa yang ditimbulkan oleh penemuan teori relativitas ini terhadap dunia?",
+          "hint": "Teori relativitas mengubah pemahaman manusia tentang alam semesta secara fundamental",
+          "correctAnswer": "Begitu mengguncang dunia dan mengubah pemahaman apapun yang pernah kita ketahui tentang alam semesta.",
+          "distractors": [
+            "Menyebabkan runtuhnya seluruh sistem bursa efek dan perekonomian di benua Eropa barat.",
+            "Membujuk semua negara untuk menutup pabrik kendaraan bermotor dan beralih memakai sepeda kayu.",
+            "Membuat semua buku pelajaran fisika klasik di sekolah dibakar karena dianggap tidak sah lagi.",
+            "Memicu terjadinya perang saudara antar-ilmuwan fisika di berbagai universitas terkemuka dunia.",
+            "Berhasil menciptakan alat yang bisa mengubah benda mati menjadi makhluk hidup dalam sekejap.",
+            "Menyebabkan seluruh masyarakat dunia berhenti memercayai teknologi komunikasi modern saat itu."
+          ]
+        },
+        {
+          "id": "D",
+          "question": "Apa koreksi terbesar Einstein terhadap pandangan lama mengenai interaksi objek di dunia kita?",
+          "hint": "Einstein menggambarkan gravitasi sebagai kelengkungan ruang-waktu",
+          "correctAnswer": "Menemukan bahwa dunia kita bukanlah objek yang saling tarik-menarik melainkan berbentuk seperti kain.",
+          "distractors": [
+            "Membuktikan bahwa bumi ini sebenarnya berbentuk datar rata seperti permukaan meja makan kayu.",
+            "Menyatakan bahwa planet-planet di tata surya bergerak karena didorong oleh tiupan angin matahari kencang.",
+            "Menemukan bahwa semua benda di dunia ini sebenarnya terbuat dari susunan kristal es transparan.",
+            "Membuktikan bahwa gaya gravitasi hanya berfungsi pada waktu malam hari ketika matahari terbenam.",
+            "Menyatakan bahwa bumi dikelilingi oleh lapisan magnet raksasa yang rasanya manis seperti gula cair.",
+            "Menemukan bahwa gaya tarik bumi dihasilkan oleh perputaran air laut yang berada di kutub selatan."
+          ]
+        },
+        {
+          "id": "E",
+          "question": "Teori baru manakah yang berhasil memecahkan misteri orbit aneh planet Merkurius?",
+          "hint": "Teori relativitas Einstein berhasil menjelaskan anomali orbit Merkurius",
+          "correctAnswer": "Teori Relativitas yang digagas oleh Albert Einstein.",
+          "distractors": [
+            "Hukum Gerak Planet yang ditulis oleh Johannes Kepler tanpa rumus matematika.",
+            "Teori Gravitasi Universal versi revisi ketiga dari Isaac Newton di masa tuanya.",
+            "Teori Mekanika Kuantum Atom yang dikembangkan oleh ilmuwan Niels Bohr secara rahasia.",
+            "Hukum Pemantulan Cahaya pada cermin cekung yang ditemukan oleh fisikawan optik kuno.",
+            "Teori Gelombang Elektromagnetik dari James Clerk Maxwell yang dipelajari di universitas.",
+            "Hukum Kekekalan Energi Mekanik pada sistem benda jatuh bebas di ruang hampa udara."
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Konsep Ruang-Waktu sebagai Kain Bengkok",
+      "triggerTime": "4:56",
+      "packages": [
+        {
+          "id": "A",
+          "question": "Benda apakah yang digunakan sebagai analogi untuk membayangkan ruang kosong di alam semesta?",
+          "hint": "Ruang-waktu dibayangkan seperti kain yang membentang",
+          "correctAnswer": "Lembaran sebuah kain yang membentang luas.",
+          "distractors": [
+            "Permukaan air kolam renang yang tenang tanpa ombak sedikit pun.",
+            "Dinding tembok beton kokoh yang tidak bisa ditembus oleh peluru senjata.",
+            "Gumpalan kapas putih lembut yang biasa digunakan untuk membersihkan luka gores.",
+            "Balok es batu raksasa transparan yang tidak akan pernah bisa mencair oleh panas.",
+            "Butiran pasir kuarsa halus yang ada di sepanjang pesisir pantai pulau tropis.",
+            "Lapisan kaca cermin tebal yang memantulkan bayangan benda di depannya sempurna."
+          ]
+        },
+        {
+          "id": "B",
+          "question": "Apa yang terjadi pada 'kain ruang' tersebut jika kita meletakkan sebuah objek yang sangat berat di atasnya?",
+          "hint": "Objek berat akan menekan dan melengkungkan kain ruang-waktu",
+          "correctAnswer": "Kain tersebut akan tertekan ke bawah dan bentuk permukaannya menjadi melengkung atau bengkok.",
+          "distractors": [
+            "Kain ruang akan langsung robek besar dan menciptakan lubang hitam yang menghisap udara sekitar.",
+            "Permukaan kain akan otomatis berubah warna menjadi merah menyala akibat panasnya gesekan massa.",
+            "Kain tersebut justru akan mengembang naik ke atas seperti balon gas yang diisi udara panas.",
+            "Kain akan mengeluarkan percikan listrik statis bertegangan tinggi yang membakar objek tersebut.",
+            "Permukaan kain menjadi sangat keras dan kaku menyerupai batuan berlian terkuat di dunia.",
+            "Kain akan mencair menjadi aliran air bening yang membanjiri seluruh sistem tata surya kita."
+          ]
+        },
+        {
+          "id": "C",
+          "question": "Bagaimana efek gravitasi tercipta berdasarkan visualisasi model kain yang bengkok ini?",
+          "hint": "Kelengkungan kain menyebabkan benda lain tertarik ke arah lengkungan",
+          "correctAnswer": "Karena kain bengkok, objek lain di sekitarnya akan jatuh tertarik mendekat ke arah pusat lengkungan.",
+          "distractors": [
+            "Objek di sekitar akan terpental menjauh dengan kecepatan tinggi menuju ruang hampa terjauh.",
+            "Terjadi reaksi ledakan berantai yang menghancurkan semua materi kecil yang berada di dekat objek berat.",
+            "Objek lain akan mulai melayang naik secara vertikal meninggalkan permukaan kain secara perlahan.",
+            "Tercipta aliran angin puyuh raksasa yang memutar semua planet dengan arah berlawanan jarum jam.",
+            "Objek di sekitarnya akan mendadak kehilangan massa beratnya total dan menghilang dari pandangan mata.",
+            "Terbentuk lapisan magnet perekat yang mengunci posisi semua benda agar tidak bisa bergerak selamanya."
+          ]
+        },
+        {
+          "id": "D",
+          "question": "Unsur tak terlihat apa yang ternyata terikat erat dengan kain dunia atau ruang kosong menurut Einstein?",
+          "hint": "Einstein menggabungkan ruang dan waktu menjadi satu kesatuan",
+          "correctAnswer": "Elemen waktu.",
+          "distractors": [
+            "Arus listrik.",
+            "Pikiran manusia.",
+            "Aroma wewangian.",
+            "Kecepatan angin.",
+            "Suhu udara.",
+            "Gelombang suara."
+          ]
+        },
+        {
+          "id": "E",
+          "question": "Apa konsekuensi gila yang terjadi pada dimensi waktu jika ruang atau kain dunia dibengkokkan secara ekstrem?",
+          "hint": "Kelengkungan ruang yang ekstrem mempengaruhi kecepatan waktu",
+          "correctAnswer": "Waktu akan berjalan berjalan jauh lebih lambat di daerah ruang yang tertekuk atau bengkok tersebut.",
+          "distractors": [
+            "Waktu di daerah tersebut akan langsung melompat maju ke masa depan sejauh seratus tahun kemudian.",
+            "Dimensi waktu akan terhapus total sehingga semua benda membeku tidak bisa mengalami perubahan lagi.",
+            "Waktu akan berputar mundur ke masa lalu secara cepat membawa semua materi kembali ke asal mula.",
+            "Jalannya waktu akan menjadi tidak menentu, kadang bergerak sangat cepat dan kadang mendadak berhenti total.",
+            "Waktu berubah menjadi wujud fisik berupa aliran air berwarna perak yang bisa disentuh tangan manusia.",
+            "Kecepatan jalannya waktu akan meningkat menjadi sejuta kali lebih cepat daripada waktu normal di bumi."
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Dilatasi Waktu di Ruang Melengkung",
+      "triggerTime": "5:16",
+      "packages": [
+        {
+          "id": "A",
+          "question": "Kendaraan canggih apakah yang digunakan narator sebagai contoh simulasi untuk melewati ruang bengkok?",
+          "hint": "Pesawat antariksa digunakan untuk menjelajahi ruang melengkung",
+          "correctAnswer": "Sebuah pesawat canggih yang mampu melakukan penerbangan lintas antariksa luas.",
+          "distractors": [
+            "Sebuah kereta cepat bawah tanah yang menggunakan teknologi levitasi magnetik super.",
+            "Kapal selam nuklir yang didesain khusus untuk menyelami samudra cair di planet luar.",
+            "Mobil sport modifikasi yang dipasangi mesin pendorong roket berbahan bakar hidrogen cair.",
+            "Sepeda motor terbang yang menggunakan roda berbasis gaya tolak gravitasi bumi buatan.",
+            "Kapsul waktu berbentuk tabung baja tebal yang ditanam di dalam inti perut bumi kita.",
+            "Lift vertikal raksasa yang menghubungkan permukaan bumi langsung dengan stasiun luar angkasa."
+          ]
+        },
+        {
+          "id": "B",
+          "question": "Apa yang dialami oleh awak kendaraan saat mereka melintasi wilayah ruang yang super bengkok?",
+          "hint": "Mereka akan mengalami dilatasi waktu atau waktu berjalan lebih lambat",
+          "correctAnswer": "Mereka akan mengalami atau merasakan jalannya waktu yang jauh lebih lambat daripada di ruang lurus.",
+          "distractors": [
+            "Seluruh tubuh mereka akan otomatis mengecil menjadi seukuran partikel semut merah kecil.",
+            "Ingatan masa kecil mereka akan terhapus total digantikan oleh rumus fisika kuantum modern.",
+            "Pesawat mereka akan mendadak kehilangan semua pasokan energi listrik dan mesin mati total.",
+            "Mereka akan melihat masa depan dunia secara jelas lewat jendela kabin kemudi pesawat mereka.",
+            "Berat badan mereka akan meningkat menjadi sejuta kali lipat hingga tidak bisa menggerakkan jari tangan.",
+            "Mereka akan mengalami pusing kepala hebat akibat hilangnya fungsi organ keseimbangan telinga dalam."
+          ]
+        },
+        {
+          "id": "C",
+          "question": "Apa kesimpulan esensial mengenai sifat waktu berdasarkan penjelasan bagian video tersebut?",
+          "hint": "Waktu tidak bersifat mutlak, bisa dipengaruhi oleh gravitasi dan kecepatan",
+          "correctAnswer": "Waktu itu ternyata tidak bersifat mutlak konstan, melainkan bisa dibengkokkan dan dimanipulasi oleh massa.",
+          "distractors": [
+            "Waktu sepenuhnya dikendalikan oleh jam atom internasional yang dipasang di markas besar PBB.",
+            "Waktu adalah ilusi pikiran manusia semata yang akan menghilang jika semua orang tertidur lelap bersama.",
+            "Waktu hanya bergerak satu arah karena dipengaruhi oleh tiupan angin kosmik dari pusat galaksi kita.",
+            "Jalannya waktu diatur oleh frekuensi denyut jantung rata-rata dari seluruh makhluk hidup di bumi.",
+            "Waktu akan otomatis berhenti bergerak jika manusia berhasil mencapai suhu nol mutlak di laboratorium.",
+            "Kecepatan waktu ditentukan oleh seberapa rajin para ilmuwan melakukan penelitian tentang astronomi."
+          ]
+        },
+        {
+          "id": "D",
+          "question": "Manfaat praktis teknologi bumi apa yang berhasil terwujud berkat pemahaman teori relativitas ini?",
+          "hint": "Teori relativitas digunakan untuk mengoreksi waktu pada sistem GPS",
+          "correctAnswer": "Memungkinkan kita memiliki sistem navigasi GPS yang bekerja dengan tingkat akurasi super tinggi.",
+          "distractors": [
+            "Membantu pabrik otomotif menciptakan ban mobil yang tidak akan pernah bisa bocor atau aus.",
+            "Memungkinkan pembuatan baterai ponsel pintar yang dayanya bisa bertahan abadi selama seumur hidup.",
+            "Berhasil menciptakan alat pemanggang roti otomatis yang matangnya merata hanya dalam satu detik.",
+            "Memungkinkan kita membuat lampu senter yang jangkauan pancaran cahayanya bisa menembus tebalnya gunung.",
+            "Membantu dokter mendeteksi penyakit dalam tubuh pasien hanya dengan melihat warna telapak tangan.",
+            "Memungkinkan pembuatan pakaian musim dingin yang bahannya terbuat dari anyaman serat kawat baja."
+          ]
+        },
+        {
+          "id": "E",
+          "question": "Mengapa waktu di satelit GPS harus disesuaikan menggunakan rumus relativitas Einstein?",
+          "hint": "Perbedaan gravitasi dan kecepatan satelit menyebabkan waktu berjalan berbeda",
+          "correctAnswer": "Karena perbedaan kelengkungan ruang dan kecepatan satelit membuat jam di sana berjalan berbeda dengan jam bumi.",
+          "distractors": [
+            "Supaya baterai satelit tidak cepat habis akibat suhu dingin ekstrem di luar angkasa sana.",
+            "Karena satelit sering kali tertabrak oleh partikel debu komet yang merusak sistem mekanik jamnya.",
+            "Agar tampilan angka penunjuk jam di layar monitor ruang kendali bumi terlihat lebih estetik dan rapi.",
+            "Supaya sinyal internet yang dikirimkan satelit tidak berubah warna menjadi biru saat melewati awan hujan.",
+            "Karena aturan hukum internasional mewajibkan semua satelit menggunakan zona waktu negara Swiss.",
+            "Supaya jam satelit tidak ikut berputar terbalik ketika satelit melewati wilayah kutub utara bumi."
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Dunia Super Kecil Fisika Kuantum",
+      "triggerTime": "5:36",
+      "packages": [
+        {
+          "id": "A",
+          "question": "Apakah fokus penyelidikan utama dari cabang Fisika Kuantum yang menakjubkan ini?",
+          "hint": "Fisika kuantum mempelajari dunia partikel subatomik",
+          "correctAnswer": "Menelusuri bagaimana dunia objek super kecil (subatomik) yang menyusun kita semua bekerja.",
+          "distractors": [
+            "Mempelajari cara perkembangbiakan hewan bersel satu yang hidup di dalam genangan air hujan.",
+            "Meneliti struktur formasi batuan kapur yang berada di dasar gua-gua bawah tanah yang gelap.",
+            "Menghitung volume air yang menguap dari seluruh permukaan danau di dunia setiap musim panas.",
+            "Mempelajari teknik pembuatan sirkuit lampu hias berukuran mikro untuk pajangan dinding kamar.",
+            "Menganalisis kandungan zat kimia pengawet yang terdapat pada makanan kemasan produk pabrik.",
+            "Menelusuri sejarah evolusi bentuk paruh burung pipit yang tinggal di kepulauan Galapagos pasifik."
+          ]
+        },
+        {
+          "id": "B",
+          "question": "Kejutan besar apa yang ditemukan para ilmuwan ketika memasuki dunia berskala super kecil tersebut?",
+          "hint": "Dunia kuantum memiliki aturan yang sangat berbeda dan tidak masuk akal secara klasik",
+          "correctAnswer": "Ternyata banyak hal-hal yang tergolong sama sekali tidak masuk akal sehat terjadi di dunia super kecil ini.",
+          "distractors": [
+            "Semua partikel kecil di sana memiliki suara jeritan melengking yang bisa merusak pendengaran mikro.",
+            "Ditemukan bahwa partikel subatomik berbentuk seperti makanan ringan donat manis berbalur cokelat.",
+            "Objek di sana otomatis hancur berkeping-keping jika didekati oleh ilmuwan yang berambut keriting.",
+            "Pergerakan partikel sepenuhnya mengikuti irama ketukan musik klasik ciptaan Mozart abad lalu.",
+            "Semua materi di dunia kuantum memiliki suhu yang jauh lebih panas daripada permukaan inti matahari.",
+            "Partikel kuantum hanya mau bergerak jika disinari menggunakan lampu senter berwarna merah muda."
+          ]
+        },
+        {
+          "id": "C",
+          "question": "Contoh perilaku aneh luar biasa apa yang ditunjukkan oleh objek elektron di dunia kuantum?",
+          "hint": "Elektron bisa berada di dua tempat sekaligus (superposisi)",
+          "correctAnswer": "Sebuah elektron bisa berada di dua tempat yang berbeda bersamaan dan memiliki dua wujud sekaligus.",
+          "distractors": [
+            "Elektron mampu membelah diri menjadi jutaan semut pekerja lalu menyatu kembali dalam satu detik.",
+            "Objek tersebut bisa berubah warna menjadi transparan total jika diberi asupan arus listrik searah.",
+            "Elektron selalu bergerak membentuk pola huruf alfabet nama penemu rumpun teori fisika tersebut.",
+            "Partikel ini akan otomatis meledak mengeluarkan api hijau jika disentuh oleh elektron dari luar.",
+            "Elektron mampu melompat keluar dari tabung laboratorium dan melayang bebas di udara ruang kelas.",
+            "Objek elektron bisa berbicara menggunakan bahasa manusia kuno jika diletakkan di bawah mikroskop."
+          ]
+        },
+        {
+          "id": "D",
+          "question": "Landasan peradaban modern apa yang bisa lahir berkat pengetahuan manusia di dunia Quantum?",
+          "hint": "Fisika kuantum mendasari teknologi semikonduktor dan komputer modern",
+          "correctAnswer": "Layar gawai elektronik yang kalian lihat sekarang serta sistem komputer digital modern.",
+          "distractors": [
+            "Sistem jaringan rel kereta api cepat lintas benua yang menggunakan bahan bakar batu bara mulia.",
+            "Teknik pembangunan gedung cakar langit antigempa yang strukturnya menggunakan pondasi bambu.",
+            "Penemuan mesin cetak buku massal yang mengakhiri era penulisan tangan naskah kuno di dunia.",
+            "Pembuatan formula obat antivirus generik yang didistribusikan secara gratis ke seluruh puskesmas.",
+            "Teknologi pembangkit listrik tenaga kincir angin raksasa yang dibangun di sepanjang daerah pesisir.",
+            "Sistem penyaringan air limbah pabrik kosmetik menjadi air minum mineral yang segar dan sehat."
+          ]
+        },
+        {
+          "id": "E",
+          "question": "Masalah besar apa yang muncul saat hukum fisika klasik diterapkan pada dunia super kecil kuantum?",
+          "hint": "Hukum fisika klasik tidak berlaku di dunia kuantum",
+          "correctAnswer": "Banyak peraturan baku di fisika klasik maupun teori relativitas yang mendadak tidak bekerja atau gagal total.",
+          "distractors": [
+            "Partikel kuantum akan langsung mengeras menjadi batu kerikil padat yang menyumbat saluran alat ukur.",
+            "Rumus fisika klasik otomatis berubah menjadi barisan angka nol yang tidak memiliki nilai hitung sama sekali.",
+            "Menyebabkan rusaknya lensa lensa optik pada mikroskop elektron canggih yang digunakan para peneliti.",
+            "Memicu timbulnya medan magnet liar yang menarik seluruh benda besi di laboratorium menempel ke dinding.",
+            "Membuat suhu ruangan laboratorium mendadak naik drastis hingga menyentuh angka titik didih air normal.",
+            "Mengakibatkan semua catatan rumus yang sudah ditulis di papan tulis kelas terhapus secara misterius."
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Misteri Alam Semesta yang Belum Terpecahkan (Puzzle Fisika)",
+      "triggerTime": "6:24",
+      "packages": [
+        {
+          "id": "A",
+          "question": "Mengapa pemahaman manusia mengenai dunia saat ini diibaratkan seperti 'puzzle yang belum lengkap'?",
+          "hint": "Fisika klasik dan kuantum belum bisa disatukan dalam satu teori",
+          "correctAnswer": "Karena aturan fisika klasik/relativitas bertentangan dan tidak sinkron dengan aturan dunia kuantum.",
+          "distractors": [
+            "Karena potongan gambar asli alam semesta sengaja disembunyikan oleh organisasi rahasia di kutub.",
+            "Banyaknya ilmuwan luar negeri yang menolak membagikan hasil penelitian mereka kepada publik luas.",
+            "Karena bahan baku untuk membuat alat deteksi partikel canggih telah habis dieksploitasi manusia.",
+            "Akibat hilangnya dokumen asli catatan teori fisika karangan ilmuwan kuno saat terjadi kebakaran besar.",
+            "Karena bentuk bumi terus mengalami pemekaran wilayah setiap kali terjadi letusan gunung berapi bawah laut.",
+            "Karena jumlah bintang di langit selalu bertambah miliaran objek baru setiap kali manusia selesai menghitungnya."
+          ]
+        },
+        {
+          "id": "B",
+          "question": "Apa tujuan utama yang sedang dikejar oleh para detektif fisikawan di jurang misteri saat ini?",
+          "hint": "Para fisikawan berusaha menemukan Theory of Everything",
+          "correctAnswer": "Menemukan satu teori tunggal (Theory of Everything) yang bisa menggabungkan dan menjelaskan segalanya.",
+          "distractors": [
+            "Membuat roket super cepat yang bisa membawa seluruh penduduk bumi pindah rumah ke planet Jupiter.",
+            "Menghapus penggunaan rumus matematika rumit dari seluruh kurikulum pendidikan tingkat universitas.",
+            "Menciptakan komputer pintar yang bisa memprediksi kapan hari kiamat akan menimpa planet bumi kita.",
+            "Mendirikan stasiun penelitian fisik di titik pusat terdalam inti bumi untuk meneliti aliran magma cair.",
+            "Menemukan ramuan ajaib yang bisa menghentikan proses penuaan sel tubuh manusia secara permanen.",
+            "Membangun dinding pelindung transparan di atmosfer bumi untuk menahan jatuhnya batuan meteorit liar."
+          ]
+        },
+        {
+          "id": "C",
+          "question": "Berapa persen peraturan alam semesta yang baru berhasil ditemukan manusia hingga saat ini?",
+          "hint": "Manusia baru mengetahui sebagian kecil dari hukum alam semesta",
+          "correctAnswer": "Kita baru berhasil menemukan sekitar 5% saja dari total keseluruhan peraturan alam semesta.",
+          "distractors": [
+            "Sudah berhasil menguasai hampir 95% dari seluruh hukum operasional mekanisme jagat raya ini.",
+            "Tepat menyentuh angka 50% alias baru setengah jalan dari seluruh rahasia kode alam ciptaan.",
+            "Baru menemukan sekitar 0,001% yang artinya manusia belum tahu apa-apa sama sekali soal sains dasar.",
+            "Sudah mencapai tingkat 75% sehingga manusia sebentar lagi akan menjadi penguasa mutlak galaksi kita.",
+            "Tepat berada di angka 25% yang sebagian besarnya membahas tentang cara kerja mesin uap kuno tradisional.",
+            "Sudah tuntas 100% dan tugas fisikawan sekarang hanyalah menjaga agar rumusnya tidak dilupakan anak cucu."
+          ]
+        },
+        {
+          "id": "D",
+          "question": "Apa arti dari fakta tersembunyinya 95% peraturan alam semesta bagi generasi muda?",
+          "hint": "Masih banyak peluang untuk penemuan baru di bidang fisika",
+          "correctAnswer": "Menunjukkan bahwa peluang dan ruang untuk melakukan penemuan penemuan baru di bidang fisika masih sangat luas.",
+          "distractors": [
+            "Menandakan bahwa sia-sia saja belajar fisika sekarang karena ilmu pengetahuan tersebut sudah hampir punah.",
+            "Berarti manusia harus segera menghentikan semua aktivitas penelitian luar angkasa karena keterbatasan otak.",
+            "Mengharuskan kita kembali menggunakan metode mistis zaman purba untuk menjelaskan fenomena cuaca buruk.",
+            "Menunjukkan bahwa alam semesta ini sengaja dirancang untuk membingungkan dan menyiksa pikiran para siswa.",
+            "Menandakan bahwa semua teknologi buatan manusia saat ini sebenarnya ilegal dan melanggar hukum alam raya.",
+            "Berarti masa depan bumi akan sangat gelap gulita karena manusia tidak akan pernah bisa menambah ilmu lagi."
+          ]
+        },
+        {
+          "id": "E",
+          "question": "Bagaimanakah status keberhasilan penggabungan teori makro (relativitas) dan mikro (kuantum) saat ini?",
+          "hint": "Theory of Everything belum berhasil ditemukan hingga saat ini",
+          "correctAnswer": "Belum ada satu pun ilmuwan detektif di dunia yang berhasil mewujudkannya hingga detik ini.",
+          "distractors": [
+            "Sudah berhasil disatukan dengan sempurna oleh tim peneliti gabungan dari berbagai universitas di Asia tenggara.",
+            "Berhasil digabungkan namun hasilnya sengaja dirahasiakan oleh pihak militer demi kepentingan pertahanan.",
+            "Sudah selesai dikerjakan oleh robot kecerdasan buatan namun rumusnya terlalu panjang untuk dicetak kertas.",
+            "Sempat berhasil disatukan namun rumusnya mendadak hilang karena tidak sengaja terhapus dari komputer utama.",
+            "Sudah berhasil dan rumusnya kini telah diwajibkan untuk dihafal oleh anak-anak tingkat sekolah dasar.",
+            "Berhasil disatukan lewat metode sayembara terbuka yang dimenangkan oleh seorang petani tradisional daerah."
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Profil Fisikawan Indonesia: Kisah Awal Pak Husein Alatas",
+      "triggerTime": "6:48",
+      "packages": [
+        {
+          "id": "A",
+          "question": "Siapakah nama tokoh detektif alam semesta asal Indonesia yang diangkat profilnya dalam video?",
+          "hint": "Fisikawan Indonesia bernama Husein Alatas",
+          "correctAnswer": "Pak Husein Alatas.",
+          "distractors": [
+            "Pak Sutrisno Jaya.",
+            "Pak Pantur Silaban.",
+            "Pak Tehouw Liong.",
+            "Pak Yohanes Surya.",
+            "Pak BJ Habibie.",
+            "Pak Ahmad Baiquni."
+          ]
+        },
+        {
+          "id": "B",
+          "question": "Siapakah sosok yang pertama kali berjasa membuat Pak Husein jatuh cinta pada ilmu fisika?",
+          "hint": "Guru SMP beliau yang mengenalkan fisika sebagai misteri",
+          "correctAnswer": "Guru mata pelajaran fisika beliau saat menempuh pendidikan di bangku SMP.",
+          "distractors": [
+            "Ayah kandung beliau yang berprofesi sebagai insinyur mesin pabrik kereta api cepat.",
+            "Seorang profesor asing yang beliau temui secara tidak sengaja di sebuah toko buku bekas kota.",
+            "Kakak sepupu perempuan beliau yang memenangkan olimpiade sains tingkat internasional di Eropa.",
+            "Tayangan dokumenter televisi swasta yang membahas tentang kehidupan astronot di luar angkasa.",
+            "Teman sebangku kelas beliau yang sering menantang lomba mengerjakan soal matematika cepat.",
+            "Kepala sekolah SMA tempat beliau belajar yang memberikan hadiah buku ensiklopedia bergambar Pixar."
+          ]
+        },
+        {
+          "id": "C",
+          "question": "Kalimat deskripsi menarik apa tentang fisika dari sang guru yang memicu rasa penasaran Pak Husein?",
+          "hint": "Guru menggambarkan fisika sebagai misteri besar",
+          "correctAnswer": "Sang guru mendeskripsikan atau menggambarkan fisika sebagai sebuah misteri yang sangat besar.",
+          "distractors": [
+            "Mengatakan bahwa nilai ujian fisika bisa ditukar dengan paket liburan gratis ke luar negeri saat semesteran.",
+            "Menyatakan bahwa siapa saja yang menguasai fisika otomatis bisa terbang melayang di atas permukaan tanah.",
+            "Menggambarkan fisika sebagai kumpulan mantra sihir modern yang bisa digunakan untuk mempermudah hidup.",
+            "Mengatakan bahwa rumus rumus fisika sengaja diciptakan untuk menguji tingkat kesabaran para murid kelas.",
+            "Mendeskripsikan fisika sebagai ilmu rahasia yang hanya boleh dipelajari oleh keturunan bangsawan kraton.",
+            "Menyatakan bahwa buku fisika mengandung peta harta karun tersembunyi milik kerajaan zaman kuno dulu."
+          ]
+        },
+        {
+          "id": "D",
+          "question": "Tindakan ekstrem apa yang dilakukan Pak Husein SMP karena rasa penasaran yang begitu tinggi?",
+          "hint": "Beliau membaca buku fisika tingkat kuliah meskipun belum paham rumusnya",
+          "correctAnswer": "Beliau sampai nekat membeli dan membaca buku-buku materi fisika untuk tingkat perkuliahan mahasiswa.",
+          "distractors": [
+            "Melarikan diri dari rumah dan memilih tinggal menetap di dalam ruang laboratorium kampus ternama.",
+            "Melakukan unjuk rasa mandiri menuntut pihak sekolah agar menambah jam pelajaran fisika menjadi seharian penuh.",
+            "Menjual sepeda kesayangannya demi membeli peralatan teleskop bintang ukuran raksasa dari luar negeri.",
+            "Menantang kepala dinas pendidikan kota untuk beradu mengerjakan soal olimpiade fisika tingkat lanjut.",
+            "Menulis surat terbuka kepada presiden meminta agar semua mata pelajaran non-sains dihapus dari kurikulum.",
+            "Menyelinap masuk ke ruang kerja dosen universitas di malam hari demi melihat tumpukan kertas ujian."
+          ]
+        },
+        {
+          "id": "E",
+          "question": "Bagaimana cara Pak Husein membaca buku fisika tingkat kuliah tersebut padahal beliau belum paham rumusnya?",
+          "hint": "Beliau membaca untuk memahami narasi dan konsep, bukan perhitungan",
+          "correctAnswer": "Beliau terus membaca tanpa memusingkan satupun perhitungan rumus karena terpukau oleh narasi misterinya.",
+          "distractors": [
+            "Menggunakan kamus bahasa asing tebal untuk menerjemahkan setiap simbol matematika ke dalam kata tulisan.",
+            "Meminta bantuan dukun pintar setempat untuk membacakan isi buku tersebut lewat metode penerawangan gaib.",
+            "Menghafal bentuk luar dari huruf-huruf rumus tersebut tanpa peduli dengan arti atau cara mengerjakannya.",
+            "Menyalin ulang seluruh isi buku tersebut ke dalam buku tulis pribadinya menggunakan tinta emas berharga.",
+            "Hanya melihat gambar-gambar ilustrasinya saja dan merobek halaman yang penuh dengan coretan barisan angka.",
+            "Membakar buku tersebut lalu mencampurkan abunya ke dalam air minum agar ilmunya meresap otomatis ke otak."
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Inspirasi di Balik Buku dan Pencapaian Gelar Guru Besar",
+      "triggerTime": "7:25",
+      "packages": [
+        {
+          "id": "A",
+          "question": "Apa yang ditemukan oleh Pak Husein di bagian belakang halaman buku-buku fisika kuliah yang dibacanya?",
+          "hint": "Beliau menemukan nama-nama ilmuwan Indonesia di buku fisika",
+          "correctAnswer": "Deretan nama-nama ilmuwan hebat asli Indonesia yang menulis dan menyusun buku pelajaran tersebut.",
+          "distractors": [
+            "Tanda tangan asli dari Albert Einstein beserta pesan singkat penyemangat belajar untuk generasi muda.",
+            "Kupon undian berhadiah paket beasiswa penuh untuk kuliah gratis di universitas terbaik Amerika Serikat.",
+            "Daftar harga jual buku-buku sains terbaru terbitan penerbit lokal beserta alamat toko fisiknya di kota.",
+            "Skema diagram rahasia mengenai cara pembuatan senjata roket balistik tingkat pertahanan negara maju.",
+            "Catatan harian rahasia dari seorang mahasiswa yang mengeluhkan susahnya lulus ujian mata kuliah fisika.",
+            "Alamat surel dan nomor telepon pribadi dari para peneliti laboratorium nuklir internasional terkemuka."
+          ]
+        },
+        {
+          "id": "B",
+          "question": "Siapakah nama salah satu lulusan Berkeley ahli Fisika Nuklir yang menginspirasi target kuliah Pak Husein?",
+          "hint": "Dosen ITB lulusan Berkeley bernama Pak Sutrisno",
+          "correctAnswer": "Pak Sutrisno (dosen ITB).",
+          "distractors": [
+            "Pak Pantur Silaban.",
+            "Pak Tehouw Liong.",
+            "Pak Yohanes Surya.",
+            "Pak BJ Habibie.",
+            "Pak Husein Alatas.",
+            "Pak Ahmad Baiquni."
+          ]
+        },
+        {
+          "id": "C",
+          "question": "Institusi perguruan tinggi manakah yang menjadi target utama impian Pak Husein sejak masa SMA?",
+          "hint": "Beliau bercita-cita kuliah di ITB",
+          "correctAnswer": "Jurusan Fisika di Institut Teknologi Bandung (ITB).",
+          "distractors": [
+            "Fakultas Kedokteran di Universitas Indonesia (UI) Jakarta.",
+            "Jurusan Teknik Mesin di Universitas Gadjah Mada (UGM) Yogyakarta.",
+            "Departemen Astronomi di Universitas Harvard Amerika Serikat.",
+            "Fakultas Pendidikan Sains di Universitas Pendidikan Indonesia (UPI) Bandung.",
+            "Jurusan Teknik Penerbangan di Universitas Cambridge Inggris Raya.",
+            "Departemen Fisika Teoretis di Universitas Kyoto Jepang."
+          ]
+        },
+        {
+          "id": "D",
+          "question": "Berapa total durasi waktu perjuangan yang dihabiskan Pak Husein hingga akhirnya mendapatkan gelar Doktor?",
+          "hint": "Beliau berjuang selama 15 tahun",
+          "correctAnswer": "Beliau berjuang dengan gigih tanpa kenal lelah selama kurang lebih 15 tahun lamanya.",
+          "distractors": [
+            "Menyelesaikan seluruh jenjang pendidikan tinggi hanya dalam kurun waktu 3 tahun saja karena genius.",
+            "Menghabiskan waktu tepat 25 tahun berpindah-pindah dari satu kampus ke kampus lain di luar negeri.",
+            "Membutuhkan waktu perjuangan selama 5 tahun terhitung sejak lulus dari sekolah menengah pertama.",
+            "Berjuang selama 40 tahun penuh hingga rambut beliau memutih seluruhnya di dalam ruangan laboratorium.",
+            "Hanya membutuhkan waktu 7 tahun berturut-turut berkat sistem akselerasi khusus dari pemerintah pusat.",
+            "Menghabiskan waktu perjuangan selama 30 tahun termasuk waktu jeda bekerja sebagai buruh pabrik mesin."
+          ]
+        },
+        {
+          "id": "E",
+          "question": "Gelar akademik tertinggi apa yang akhirnya berhasil dicapai oleh Pak Husein berkat ketekunannya?",
+          "hint": "Beliau mencapai gelar Guru Besar atau Profesor",
+          "correctAnswer": "Diangkat menjadi seorang Guru Besar (Profesor) di bidang ilmu fisika.",
+          "distractors": [
+            "Mendapatkan gelar Rektor Kehormatan abadi di universitas tempat beliau mengajar.",
+            "Diberi penghargaan sebagai Dekan Terbaik tingkat nasional oleh menteri pendidikan tinggi.",
+            "Menjadi Ketua Asosiasi Fisikawan Seluruh Dunia yang markas besarnya berada di negara Swiss.",
+            "Menerima medali penghargaan Nobel Fisika langsung dari tangan raja Swedia di ibu kota Stockholm.",
+            "Diangkat menjadi Staf Ahli Khusus Kepresidenan di bidang riset antariksa luar dan teknologi roket.",
+            "Mendapatkan gelar Doktor Honoris Causa dari sepuluh universitas terkemuka di benua Amerika serempak."
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Edukasi Fisika Lewat Imajinasi Film Populer",
+      "triggerTime": "11:18",
+      "packages": [
+        {
+          "id": "A",
+          "question": "Media modern masa depan apakah yang diusulkan Pak Husein untuk membantu mengajarkan ilmu fisika?",
+          "hint": "Film layar lebar atau sinema sebagai media pembelajaran fisika",
+          "correctAnswer": "Diajarkan melalui media tayangan karya seni film layar lebar (sinema).",
+          "distractors": [
+            "Menggunakan permainan gim video bergenre petualangan dunia terbuka di komputer canggih.",
+            "Melalui aplikasi media sosial video pendek yang durasinya hanya beberapa detik saja setiap tayangan.",
+            "Lewat pertunjukan seni teater drama musikal tradisional yang dipentaskan di panggung megah alun-alun.",
+            "Menggunakan komik bergambar Pixar berwarna warni yang dibagikan cuma-cuma ke sekolah dasar.",
+            "Melalui siaran sandiwara radio bertema detektif yang disiarkan setiap malam minggu jam sembilan.",
+            "Menggunakan media kartu permainan sulap yang di balik kartunya tertulis rumus matematika angka."
+          ]
+        },
+        {
+          "id": "B",
+          "question": "Apa judul film fiksi ilmiah yang dinilai oleh Pak Husein sebagai film yang 'paling realistis' dari yang ada?",
+          "hint": "Film Interstellar dipuji karena melibatkan perhitungan fisika asli",
+          "correctAnswer": "Film berjudul 'Interstellar'.",
+          "distractors": [
+            "Film seri perang bintang populer 'Star Wars'.",
+            "Serial penjelajahan antariksa legendaris 'Star Trek'.",
+            "Film pahlawan super bertajuk 'Avengers: Endgame'.",
+            "Film fiksi ilmiah fiksi dinosaurus 'Jurassic Park'.",
+            "Film petualangan fiksi ruang angkasa 'The Martian'.",
+            "Film aksi fiksi menembus dimensi mimpi berjudul 'Inception'."
+          ]
+        },
+        {
+          "id": "C",
+          "question": "Bagaimana pandangan Pak Husein terhadap film bertema fiksi seperti Avengers meski beliau tahu teorinya salah?",
+          "hint": "Beliau tetap menyukai film fiksi karena memberikan inspirasi",
+          "correctAnswer": "Beliau tetap menyukainya karena film tersebut memberikan asupan imajinasi dan inspirasi yang luas bagi penonton.",
+          "distractors": [
+            "Melarang keras murid-muridnya menonton film tersebut karena khawatir otak mereka akan rusak memikirkan fiksi.",
+            "Menulis artikel kritik tajam di koran nasional menuntut sutradara film meminta maaf kepada dunia sains.",
+            "Menganggap film tersebut sebagai ancaman besar yang bisa meruntuhkan moral belajar para siswa sekolah.",
+            "Meminta pemerintah untuk memblokir penayangan film pahlawan super tersebut di seluruh bioskop tanah air.",
+            "Merasa sedih dan kecewa karena industri perfileman dunia sengaja membodohi masyarakat menggunakan trik.",
+            "Mewajibkan semua pembuat film fiksi ilmiah untuk menempuh ujian rumus fisika dasar terlebih dahulu di kampus."
+          ]
+        },
+        {
+          "id": "D",
+          "question": "Apa manfaat utama stimulasi film fiksi ilmiah bagi calon detektif semesta muda menurut video?",
+          "hint": "Film fiksi ilmiah memicu rasa ingin tahu dan kreativitas",
+          "correctAnswer": "Mampu memicu rasa ingin tahu, daya kreativitas, serta kemampuan berimajinasi tanpa batas tentang masa depan.",
+          "distractors": [
+            "Membuat anak muda menjadi malas membaca buku teks pelajaran dan hanya ingin menghabiskan waktu di bioskop.",
+            "Membantu penonton menghafal rumus perkalian angka desimal dengan kecepatan luar biasa tinggi tanpa mencatat.",
+            "Menjamin penonton otomatis lulus tes seleksi masuk jurusan teknik elektro di universitas negeri ternama.",
+            "Mengubah perilaku penonton menjadi sosok penyendiri yang gemar mengoleksi kostum karakter pahlawan fiksi.",
+            "Membantu masyarakat menghemat biaya pengeluaran bulanan listrik rumah tangga lewat trik di dalam film.",
+            "Mengajarkan cara cepat meretas sistem jaringan komputer milik instansi pemerintah asing dari kamar tidur."
+          ]
+        },
+        {
+          "id": "E",
+          "question": "Mengapa film Interstellar dipuji memiliki tingkat realistis yang tinggi di kalangan fisikawan?",
+          "hint": "Film Interstellar melibatkan fisikawan pemenang Nobel Kip Thorne",
+          "correctAnswer": "Karena proses pembuatannya melibatkan perhitungan rumus fisika asli dari ahli relativitas (Kip Thorne).",
+          "distractors": [
+            "Sebab semua aktor di dalam film tersebut adalah mantan profesor fisika nuklir lulusan Berkeley amerika.",
+            "Karena biaya pembuatan film tersebut dibiayai penuh oleh lembaga riset antariksa internasional PBB.",
+            "Sebab lokasi syuting film tersebut dilakukan langsung di dalam stasiun luar angkasa yang asli melayang.",
+            "Karena alur cerita di dalam film ditulis berdasarkan naskah kuno yang ditemukan di makam Isaac Newton.",
+            "Sebab properti pesawat yang digunakan terbuat dari komponen asli roket bekas yang dibeli dari militer dunia.",
+            "Karena kamera yang digunakan untuk merekam adegan bisa memotret wujud asli dari partikel elektron kecil."
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Prinsip Detektif Fisika dalam Kehidupan dan Jembatan Ilmu Teknik",
+      "triggerTime": "10:02",
+      "packages": [
+        {
+          "id": "A",
+          "question": "Prinsip dasar penting fisika apa yang disebut akan sangat berguna bagi sepanjang hidup kalian?",
+          "hint": "Prinsip detektif: telusuri akar permasalahan setiap fenomena",
+          "correctAnswer": "Selalu telusuri akar permasalahan dari setiap hal atau fenomena yang dihadapi, layaknya detektif.",
+          "distractors": [
+            "Selalu menghindari konflik dengan cara menyetujui semua pendapat orang lain tanpa dipikirkan terlebih dahulu.",
+            "Berusaha mengumpulkan kekayaan materi sebanyak mungkin sebelum memasuki usia paruh baya atau masa pensiun.",
+            "Membiasakan diri menghafal barisan angka acak setiap pagi untuk menjaga ketajaman ingatan memori otak.",
+            "Selalu menggunakan pakaian berwarna hitam saat menghadiri acara pertemuan formal di lingkungan kampus.",
+            "Menolak menggunakan teknologi komunikasi modern dan memilih hidup mandiri di pedalaman desa terpencil.",
+            "Mempercayakan semua keputusan masa depan hidup kepada ramalan zodiak atau rasi bintang di langit malam."
+          ]
+        },
+        {
+          "id": "B",
+          "question": "Rumpun ilmu aplikasi praktis manakah yang menjadi jembatan perubahan teori fisika menjadi hal bermanfaat?",
+          "hint": "Ilmu Teknik (Engineering) menerapkan teori fisika menjadi teknologi",
+          "correctAnswer": "Rumpun Ilmu Teknik (Engineering).",
+          "distractors": [
+            "Ilmu Sastra Kuno.",
+            "Ilmu Psikologi Sosial.",
+            "Ilmu Seni Rupa Murni.",
+            "Ilmu Hukum Pidana.",
+            "Ilmu Antropologi Budaya.",
+            "Ilmu Akuntansi Keuangan."
+          ]
+        },
+        {
+          "id": "C",
+          "question": "Sektor industri teknologi tinggi apa saja yang disebut membutuhkan bekal fondasi ilmu fisika?",
+          "hint": "Industri luar angkasa, robotik, game, dan militer membutuhkan fisika",
+          "correctAnswer": "Perjalanan luar angkasa, robotik, pembuatan video game, hingga kebutuhan industri pertahanan (militer).",
+          "distractors": [
+            "Industri pembuatan pakaian rajut tradisional, perhotelan, perbankan konvensional, dan kuliner makanan cepat saji.",
+            "Budidaya tanaman hias hidroponik, peternakan unggas, pembuatan mebel kayu jati, dan jasa logistik kurir barang.",
+            "Sektor produksi alat tulis kantor, percetakan koran lokal, kerajinan tangan anyaman bambu, dan pariwisata pantai.",
+            "Industri pembuatan sabun mandi herbal, klinik kecantikan wajah, tata rias pengantin, dan produksi film dokumenter.",
+            "Sektor perdagangan pakaian bekas impor, pembuatan roti bakar, kursus mengemudi mobil, dan pengelolaan pasar malam.",
+            "Industri pembuatan garam tradisional, penangkaran ikan hias air tawar, penjahitan gorden jendela, dan jasa pijat refleksi."
+          ]
+        },
+        {
+          "id": "D",
+          "question": "Metafora kata apakah yang digunakan untuk menggambarkan peran ilmu fisika bagi para detektif semesta?",
+          "hint": "Fisika sebagai obor penerang di tengah kegelapan misteri alam",
+          "correctAnswer": "Menjadi sebuah obor penerang di tengah kegelapan misteri alam semesta.",
+          "distractors": [
+            "Menjadi sebilah pedang tajam untuk memotong semua keraguan masyarakat awam.",
+            "Berperan sebagai perisai baja kokoh yang melindungi manusia dari ancaman radiasi bintang.",
+            "Menjadi sebuah kompas penunjuk arah magnetik yang tidak akan pernah bisa rusak terbentur.",
+            "Berperan sebagai kunci emas rahasia untuk membuka gerbang kekayaan materi dunia luar.",
+            "Menjadi sebuah jaring raksasa yang menangkap seluruh partikel debu kosmik luar angkasa.",
+            "Berperan sebagai sayap burung besi yang membawa manusia terbang melintasi awan mendung."
+          ]
+        },
+        {
+          "id": "E",
+          "question": "Kalimat kutipan terkenal dari Albert Einstein manakah yang menjadi penutup keindahan studi ilmu fisika?",
+          "hint": "Einstein menyatakan bahwa misteri adalah sumber keindahan fisika",
+          "correctAnswer": "Justru proses misteri yang membingungkan itulah yang menjadi letak keindahan dari ilmu fisika.",
+          "distractors": [
+            "Waktu adalah uang, oleh karena itu jangan buang waktumu hanya untuk menghafal rumus pelajaran sekolah.",
+            "Siapa yang menguasai teknologi internet, maka ia akan otomatis menguasai seluruh peradaban manusia bumi.",
+            "Fisika klasik adalah satu satunya kebenaran mutlak yang tidak boleh diubah oleh siapapun sampai kapan pun.",
+            "Kedamaian dunia hanya bisa dicapai jika semua orang berhenti memikirkan hal-hal rumit tentang luar angkasa.",
+            "Rumus matematika adalah bahasa rahasia yang digunakan oleh para makhluk asing untuk menyapa manusia bumi.",
+            "Jangan pernah bertanya tentang hal yang tidak kamu lihat dengan mata kepalamu sendiri di lingkungan sekitar."
+          ]
+        }
+      ]
+    }
+  ]
+}

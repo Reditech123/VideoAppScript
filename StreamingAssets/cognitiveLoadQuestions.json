@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Seberapa besar usaha mental yang Anda keluarkan untuk memahami materi ini?",
+      "options": [
+        "Sangat kecil (1)",
+        "Kecil (2)",
+        "Sedang (3)",
+        "Besar (4)",
+        "Sangat besar (5)"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "Bagaimana kejelasan materi yang disajikan dalam video ini?",
+      "options": [
+        "Sangat tidak jelas (1)",
+        "Tidak jelas (2)",
+        "Cukup jelas (3)",
+        "Jelas (4)",
+        "Sangat jelas (5)"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3,
+      "question": "Bagaimana kemudahan penggunaan antarmuka video interaktif ini?",
+      "options": [
+        "Sangat sulit (1)",
+        "Sulit (2)",
+        "Cukup mudah (3)",
+        "Mudah (4)",
+        "Sangat mudah (5)"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 4,
+      "question": "Apakah sistem memberikan bantuan yang cukup saat Anda mengalami kesulitan?",
+      "options": [
+        "Sangat kurang (1)",
+        "Kurang (2)",
+        "Cukup (3)",
+        "Baik (4)",
+        "Sangat baik (5)"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "question": "Apakah Anda merasa informasi yang disajikan terlalu banyak sehingga sulit diproses?",
+      "options": [
+        "Sangat tidak setuju (1)",
+        "Tidak setuju (2)",
+        "Netral (3)",
+        "Setuju (4)",
+        "Sangat setuju (5)"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 6,
+      "question": "Seberapa mudah Anda mengikuti alur pembelajaran dalam video ini?",
+      "options": [
+        "Sangat sulit (1)",
+        "Sulit (2)",
+        "Cukup mudah (3)",
+        "Mudah (4)",
+        "Sangat mudah (5)"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 7,
+      "question": "Bagaimana beban belajar yang Anda rasakan selama mengikuti pembelajaran ini?",
+      "options": [
+        "Sangat ringan (1)",
+        "Ringan (2)",
+        "Sedang (3)",
+        "Berat (4)",
+        "Sangat berat (5)"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 8,
+      "question": "Apakah Anda merasa termotivasi untuk belajar lebih lanjut setelah mengikuti video ini?",
+      "options": [
+        "Sangat tidak termotivasi (1)",
+        "Tidak termotivasi (2)",
+        "Cukup termotivasi (3)",
+        "Termotivasi (4)",
+        "Sangat termotivasi (5)"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 9,
+      "question": "Bagaimana tingkat konsentrasi Anda selama mengikuti video pembelajaran?",
+      "options": [
+        "Sangat rendah (1)",
+        "Rendah (2)",
+        "Sedang (3)",
+        "Tinggi (4)",
+        "Sangat tinggi (5)"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 10,
+      "question": "Apakah Anda merasa puas dengan pengalaman belajar menggunakan video interaktif ini?",
+      "options": [
+        "Sangat tidak puas (1)",
+        "Tidak puas (2)",
+        "Cukup puas (3)",
+        "Puas (4)",
+        "Sangat puas (5)"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}
